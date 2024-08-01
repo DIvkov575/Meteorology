@@ -4,7 +4,6 @@ program tsunami
     integer :: i, n
 
     integer, parameter :: grid_size = 100 ! grid size in x
-    integer, parameter :: grid_size = 100 ! grid size in x
     integer, parameter :: num_time_steps = 100 ! number of time steps
 
     real, parameter :: dt = 1 ! time step [s]
